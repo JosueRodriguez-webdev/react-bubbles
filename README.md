@@ -40,7 +40,7 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 	•	 Which HTTP methods can be mapped to the CRUD acronym that we use when interfacing with APIs/Servers.
 	
-	A: If you want to map something the only crud operation I know of is .get but question kinda worded weird
+	A: Create-post, Read-get Update-put Delete-delete
 
 
 ## Project Set Up
